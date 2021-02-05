@@ -1,4 +1,4 @@
 # CSES Problem Set
 ___
 ## Comleted Tasks List
-- ### Introductory Problems (5/19) ![26](https://progress-bar.dev/26)
+- ### Introductory Problems (8/19) ![42](https://progress-bar.dev/42)
